@@ -1,0 +1,10 @@
+.container {
+    display: grid | inline-grid; 
+    grid-template-columns: 2fr 3fr;
+    grid-template-rows: 2fr, 5fr, 1fr 1fr 1fr;
+}
+
+h1{
+    color: purple;
+    font-weight: bold;
+}
